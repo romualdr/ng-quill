@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "postinstall": "../quill/_develop/scripts/release.sh"
+  }
+}
